@@ -13,3 +13,4 @@ Resource  :React Crash Course 2024 : https://www.youtube.com/watch?v=LDB4uaJ87e0
 run following commnads in separate terminals
  - npm run dev   --- port defined for local servere in vite.confog.js
  - npm run server ---  port defined for json server in package.json to load json file as CRUD rest API - script> server
+  ---
