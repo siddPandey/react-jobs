@@ -147,7 +147,7 @@ const AddJobPage = ({addJobSubmit}) => {
                                 >Company Name</label
                                 >
                                 <input
-                                    type="text"
+                                    type="email"
                                     id="company"
                                     name="company"
                                     className="border rounded w-full py-2 px-3"
@@ -181,7 +181,7 @@ const AddJobPage = ({addJobSubmit}) => {
                                 >Contact Email</label
                                 >
                                 <input
-                                    type="email"
+                                    type="text"
                                     id="contact_email"
                                     name="contact_email"
                                     className="border rounded w-full py-2 px-3"

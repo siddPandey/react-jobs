@@ -10,10 +10,10 @@ function Hero(props) {
             <h1
               className="text-4xl font-extrabold text-white sm:text-5xl md:text-6xl"
             >
-              {props.title}
+              {props.title} Openings
             </h1>
             <p className="my-4 text-xl text-white">
-              {props.subTitle}
+              {props.subTitle} Find Suitable openinegs for you
             </p>
           </div>
         </div>
